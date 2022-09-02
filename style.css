@@ -88,7 +88,7 @@ main{
   margin-bottom: 20px;
   border-bottom: 1px solid #f7f7f7;
   display: flex;
-  justify-cntent:flex-start;
+  justify-content:flex-start;
 }
 
 .blog-image{
